@@ -1,0 +1,6 @@
+{
+  "name": "OneMart",
+  "description": "Shopping with proof. An e-commerce platform with honest product comparison, protected checkout, live verification, and simulated orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

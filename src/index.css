@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@import "./styles/globals.css";
+
+@theme {
+  --color-primary-red: #C8102E;
+  --color-primary-hover: #A30D25;
+  --color-primary-tint: #FDECEE;
+  --color-primary-tint-subtle: #FFF7F8;
+  --color-ground: #FFFFFF;
+  --color-surface: #FAFAFA;
+  --color-ink: #1A1A1A;
+  --color-muted: #5C5C5C;
+  --color-muted-light: #8E8E8E;
+  --color-border: #E8E8E8;
+  --color-success: #1F7A4D;
+  --color-warning: #B45309;
+  --font-display: 'Bricolage Grotesque', sans-serif;
+  --font-body: 'Instrument Sans', sans-serif;
+}
